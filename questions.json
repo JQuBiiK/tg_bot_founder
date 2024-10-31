@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Что такое Python?",
+        "options": ["Язык программирования", "Тип данных", "Музыкальный инструмент", "Змея на английском"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой тип данных используется для хранения целых чисел в Python?",
+        "options": ["int", "float", "str", "bool"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какая функция используется для вывода текста в Python?",
+        "options": ["print", "echo", "console.log", "display"],
+        "correct_option": 0
+    },
+    {
+        "question": "Как называется цикл, который выполняется пока условие истинно?",
+        "options": ["for", "while", "repeat", "until"],
+        "correct_option": 1
+    },
+    {
+        "question": "Какой оператор используется для проверки равенства?",
+        "options": ["=", "==", "equals", "is"],
+        "correct_option": 1
+    },
+    {
+        "question": "Какой метод используется для добавления элемента в список?",
+        "options": ["add", "insert", "append", "push"],
+        "correct_option": 2
+    },
+    {
+        "question": "Как называется встроенная функция для получения длины строки?",
+        "options": ["count", "length", "size", "len"],
+        "correct_option": 3
+    },
+    {
+        "question": "Какой метод преобразует строку в нижний регистр?",
+        "options": ["lowercase", "tolower", "toLowerCase", "lower"],
+        "correct_option": 3
+    },
+    {
+        "question": "Что делает функция range()?",
+        "options": ["Генерирует список", "Возвращает диапазон чисел", "Создает массив", "Возвращает кортеж"],
+        "correct_option": 1
+    },
+    {
+        "question": "Какой модуль используется для работы с случайными числами?",
+        "options": ["random", "math", "numbers", "randomizer"],
+        "correct_option": 0
+    }
+]
